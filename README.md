@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hey, I'm Sheryar Khan (aka Khan)
 
-<!--
-**thesheryar/thesheryar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a WordPress developer and performance optimizer who builds fast, modern, and creative websites for businesses and individuals.  
 
-Here are some ideas to get you started:
+## 🌟 About Me  
+I craft websites with WordPress & modern stacks.  
+Obsessed with performance, clean design, and seamless UX.  
+Portfolio: [behance.com/thechary](http://behance.com/thechary)  
+Site: [thesheryar.com](https://thesheryar.com)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Tech Playground  
+📝 WordPress · 🛒 WooCommerce  
+💻 PHP · JavaScript · CSS · Tailwind  
+🎨 Elementor · APIs · Speed Optimization  
+
+## 🎉 Fun Facts  
+☕ Coffee powers my code  
+🎶 Debugging with music on repeat  
+🎨 When not coding, I paint  
+
+## 📬 Connect  
+🌍 [thesheryar.com](https://thesheryar.com)  
+🎨 [behance.com/thechary](http://behance.com/thechary)  
+💼 Open to cool collabs  
+
+💡 *"Code it clean. Design it bold. Launch it fast."*
